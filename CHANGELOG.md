@@ -1,5 +1,10 @@
 # Changelog
 
+
+
+
+
+
 ## Release (2025-07-27)
 
 * ember-strict-application-resolver 0.0.2 (patch)
